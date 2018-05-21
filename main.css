@@ -1,19 +1,21 @@
 html {
     box-sizing: border-box ;
-    background-color: black;
+    background-color: gray;
 }
 
 .hmm {
-    color: brown;
+    color: #41f486;
+    font-family: sans;
     font-size: 3em;
     padding: 10px 10px 10px 10px;
+    text-align: center;
 }
 
 .main {
-    width: 600px;
-    height: 200px;
+    width: 800px;
+    height: 600px;
     margin: auto;
     border-radius: 3px;
-    box-shadow: 10px 10px yellow;
+    box-shadow: 5px 10px #4286f4;
     background-color: white;
 }

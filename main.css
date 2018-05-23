@@ -20,3 +20,17 @@ html {
     box-shadow: 5px 10px #4286f4;
     background-color: white;
 }
+
+.blurb {
+
+    color: black;
+    font-family: helvetica;
+    font-size: 1em;
+    width: 300px;
+    text-align: right;
+    float: left;
+}
+
+img {
+    float: right;
+}

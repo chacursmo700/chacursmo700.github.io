@@ -3,34 +3,18 @@ html {
     background-color: gray;
 }
 
-.hmm {
-    margin-top: 0;
-    color: #41f486;
-    font-family: sans;
-    font-size: 3em;
-    padding: 10px 10px 10px 10px;
-    text-align: center;
+.main {
+    
 }
 
-.main {
-    width: 800px;
-    height: 600px;
-    margin: auto;
-    border-radius: 3px;
-    box-shadow: 5px 10px #4286f4;
+.canvas {
     background-color: white;
 }
 
-.blurb {
-
-    color: black;
-    font-family: helvetica;
-    font-size: 1em;
-    width: 300px;
-    text-align: right;
-    float: left;
+body {
+    margin: 0;
+    overflow: hidden;
 }
 
-img {
-    float: right;
-}
+
+

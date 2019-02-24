@@ -33,7 +33,7 @@ ctx.fill();
 ctx.strokeStyle = 'black'
 ctx.lineWidth = 1;
 ctx.font = '12px arial';
-ctx.fillText('Downtown',midW+25,midH+25);
+ctx.fillText('Area^2',midW+25,midH+25);
 
 var i;
 var temp;

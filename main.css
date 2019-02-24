@@ -4,7 +4,22 @@ html {
 }
 
 .main {
+    font-family: Verdana, sans-serif;
+}
+.skills {
+    display: flex;
+    border-radius: 10px;
+    margin: auto;
+    width: 800px;
+    box-shadow: 3px 5px black;
+    background-color: burlywood;
+    flex-direction: column;
+   
+
+}
+.top-content {
     
+
 }
 
 .canvas {
